@@ -1,11 +1,13 @@
 from tkinter import *
 
-#test Github
+#test Github Dylan
 
+#test Github Clarisse
 
 def damier():  # fonction dessinant le tableau
     ligne_vert()
     ligne_hor()
+
 
 
 def ligne_vert():
